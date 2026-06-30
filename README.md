@@ -1,10 +1,9 @@
-## Hi there 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=200&section=header&text=gitzhaojinhong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+gitzhaojinhong+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+gitzhaojinhong+%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85" alt="打字机动画" />
 </p>
 
 <p align="center">
@@ -14,9 +13,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00D4AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-China-00D4AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-Chinese%20%26%20English-00D4AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91-00D4AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E6%89%80%E5%9C%A8%E5%9C%B0-%E4%B8%AD%E5%9B%BD-00D4AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87%20%26%20%E8%8B%B1%E6%96%87-00D4AA?style=flat-square" />
 </p>
 
 <p align="center">
@@ -27,28 +26,28 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub 统计</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gitzhaojinhong&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitzhaojinhong&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gitzhaojinhong&show_icons=true&theme=radical&hide_border=true&rank_icon=github&locale=cn" alt="GitHub 统计" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitzhaojinhong&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="常用语言" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gitzhaojinhong&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophy</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitzhaojinhong&theme=radical&no-frame=true&row=1&column=7" alt="Trophy" />
+  <img src="https://streak-stats.demolab.com/?user=gitzhaojinhong&theme=radical&hide_border=true&locale=zh" alt="连续贡献" />
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">🏆 GitHub 成就</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitzhaojinhong&theme=radical&no-frame=true&row=1&column=7" alt="成就奖杯" />
+</p>
+
+---
+
+<h3 align="center">🛠️ 技术栈与工具</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,kubernetes,linux,git,vscode&theme=dark" />
@@ -67,7 +66,7 @@
 
 ---
 
-<h3 align="center">📌 Featured Projects</h3>
+<h3 align="center">📌 精选项目</h3>
 
 <p align="center">
   <a href="https://github.com/gitzhaojinhong/project-1">
@@ -80,15 +79,15 @@
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">📈 贡献图谱</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitzhaojinhong&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitzhaojinhong&theme=redical&hide_border=true" alt="贡献图谱" />
 </p>
 
 ---
 
-<h3 align="center">📫 Connect With Me</h3>
+<h3 align="center">📫 联系方式</h3>
 
 <p align="center">
   <a href="mailto:your-email@example.com">
@@ -110,8 +109,9 @@
 </p>
 
 <p align="center">
-  <i>⭐ Star my repos if you find them helpful!</i>
+  <i>⭐ 如果觉得有帮助，欢迎 Star 我的仓库！</i>
 </p>
+
 
 <!--
 **gitzhaojinhong/gitzhaojinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
